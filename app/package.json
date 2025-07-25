@@ -1,0 +1,6 @@
+{
+    "name": "rabbitmq-test-app",
+    "dependencies": {
+        "amqplib": "^0.10.8"
+    }
+}
